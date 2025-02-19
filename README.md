@@ -1,0 +1,1 @@
+# qr_code_generator_python_app
